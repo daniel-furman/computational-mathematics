@@ -1,1 +1,1 @@
-A selection of MATLAB scripts written for computational mathematics courses as an undergrad. Topics include numerical linear algebra, numerical solutions to ODES, contructing linear splines, explorations of errors and machine epsilon, among other topics.
+A selection of MATLAB scripts written for computational mathematics courses as an undergrad. Topics include numerical methods in linear algebra, numerical solutions to ODES, contructing linear splines, explorations of errors and machine epsilon, among other topics.
