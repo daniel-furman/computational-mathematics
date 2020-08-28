@@ -3,7 +3,7 @@
 % Write a script that displays the Fibonacci sequence and the ratio of
 % consecutive terms. Also display the absolute error of each ratio as an 
 % approximation to the Golden Ratio, 1+root(5)/2, include enough terms to
-% reach eps, then plot errors on loglog scale.
+% reach the computer epsilon, then plot errors on loglog scale.
 
 format long e
 
