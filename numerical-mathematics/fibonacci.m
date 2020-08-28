@@ -1,9 +1,10 @@
 % fibonacci.m
 
-% Write Matlab code that displays the Fibonacci sequence and the ratio of
-% consecutiveterms. Also display the absolute error of each ratio as an 
+% Write a script that displays the Fibonacci sequence and the ratio of
+% consecutive terms. Also display the absolute error of each ratio as an 
 % approximation to the Golden Ratio, 1+root(5)/2, include enough terms to
-% reach eps, plot errors on loglog scale
+% reach eps, then plot errors on loglog scale.
+
 format long e
 
 clear all; clc; clf;% clear everything
