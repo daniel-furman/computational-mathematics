@@ -1,11 +1,8 @@
 % simps_int.m
 
-% Simpsons rule: definite integral from a to b of f(x) approximately yo +
-% yn + 4(y2+y4 )+2(y1+y3+...+
-% for simpson's have 4 of everything and subtract 3 times first ones and 2
-% times odd ones,  odds use same notation for xval for indices of vectors
+% Simpsons rule: definite integral from a to b of f(x).
 % h = b - a / n (n intervals)
-% used to solve two integrals, I1 and I2, saved in simps and simps 1 where
+% used to solve two integrals, I1 and I2, saved in simps and simps 1:
 % simps = y = exp(-x.^2) and simps 1 = y = 1/(1+x.^2)
 
 clear all; clc;
