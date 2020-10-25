@@ -1,1 +1,1 @@
-A selection of MATLAB scripts written for computational mathematics courses as an undergrad. Topics include numerical methods for solving systems of linear equations, numerical solutions to ODES, deriving a linear spline fit, exploring approximation errors with the machine epsilon, and other topics.
+A selection of MATLAB scripts written for numerical math (Math 420). Topics include numerical methods for solving systems of linear equations, numerical solutions to ODES, deriving a linear spline fit, exploring approximation errors with the machine epsilon, and other topics.
